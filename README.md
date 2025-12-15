@@ -35,8 +35,3 @@ CSS
 npm install
 npm run dev
 
-
-
-Make it even shorter
-
-Just say 👍
